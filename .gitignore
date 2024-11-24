@@ -1,0 +1,12 @@
+.cache
+.vscode
+CMakeFiles/
+CMakeCache.txt
+build/
+*.cmake
+compile_commands.json
+*.a
+Makefile
+anemone
+lib/*
+!lib/CMakeLists.txt
